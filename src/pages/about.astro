@@ -1,23 +1,46 @@
 ---
+const pageTitle = "Sobre mi persona";
+const identity = {
+  firstName: "Nicolás",
+  country: "Argentina",
+  occupation: "CS Student",
+  hobbies: ["fiction writing", "programming", "cooking"],
+};
+const skills = ["Creative Writing", "HTML", "CSS", "JavaScript", "Shell", "Lisp", "Python", "C/C++"];
+const happy = true;
+const finished = false;
+const goal = 3;
 ---
 
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <meta name="viewport" content="width=device-width" />
+        <meta name="generator" content={Astro.generator} />
+        <title>{pageTitle}</title>
+    </head>
+    <body>
         <a href="/">Hogar</a>
         <a href="/about/">Nosotros</a>
         <a href="/blog/">Blog</a>
-		<h1>Somos nosotros...</h1>
-        <h2>los pibes...</h2>
-
+        <h1>{pageTitle}<h1>
+        <h2>un poco sobre mi</h2>
+        <p>Here are a few facts about me:</p>
+        <ul>
+            <li>My name is {identity.firstName}.</li>
+            <li>I live in {identity.country} and I work as a {identity.occupation}.</li>
+             {identity.hobbies.length >= 2 &&
+            <li>Two of my hobbies are: {identity.hobbies[0]} and {identity.hobbies[1]}</li>
+             }
+        </ul>
+        <p>My skills are:</p>
+        <ul>
+            {skills.map((skill) => <li>{skill}</li>)}
+        </ul>
         <p>Este es un sitio de prueba para blogs hecho con Astro</p>
-        <p>No hay mucho por ahora</p>
-        <p>pero habra mas adelante</p>
-	</body>
+        {happy && <p>I am happy to be learning Astro!</p>}
+        {finished && <p>I finished this tutorial!</p>}
+        {goal === 3 ? <p>My goal is to finish in 3 days.</p> : <p>My goal is not 3 days.</p>}
+    </body>
 </html>
