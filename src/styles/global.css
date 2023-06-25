@@ -1,6 +1,7 @@
 html {
-  background-color: #f1f5f9;
-  font-family: sans-serif;
+    background-image: linear-gradient(to left bottom, #03071e, #03071c, #040619, #040617, #040614, #040612, #040510, #04050d, #04040b, #030308, #030306, #020203);
+    font-family: sans-serif;
+    color: white;
 }
 
 body {
@@ -18,4 +19,5 @@ body {
 h1 {
   margin: 1rem 0;
   font-size: 2.5rem;
+  color: #DC2F02;
 }
