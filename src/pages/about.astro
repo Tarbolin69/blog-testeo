@@ -1,10 +1,9 @@
 ---
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-
+import BaseLayout from '../layouts/BaseLayout.astro';
 import '../styles/global.css';
 
-const pageTitle = "Sobre mi persona";
 const identity = {
   firstName: "Nicolás",
   country: "Argentina",
@@ -16,36 +15,23 @@ const happy = true;
 const finished = false;
 const goal = 3;
 ---
-
-<html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-        <meta name="viewport" content="width=device-width" />
-        <meta name="generator" content={Astro.generator} />
-        <title>{pageTitle}</title>
-    </head>
-    <body>
-        <Header />
-        <h1>{pageTitle}<h1>
-        <h2>un poco sobre mi</h2>
-        <p>Here are a few facts about me:</p>
-        <ul>
-            <li>Mi nombre es {identity.firstName}.</li>
-            <li>Yo vivo en {identity.country} y so un {identity.occupation}.</li>
-             {identity.hobbies.length >= 2 &&
-            <li>Dos de mis hobbies son: {identity.hobbies[0]} y {identity.hobbies[1]}</li>
-             }
-        </ul>
-        <p>Tengo experiencia en:</p>
-        <ul>
-            {skills.map((skill) => <li class="skill">{skill}</li>)}
-        </ul>
-        <p>Este es un sitio de prueba para blogs hecho con Astro</p>
-        {happy && <p>I am happy to be learning Astro!</p>}
-        {finished && <p>I finished this tutorial!</p>}
-        {goal === 3 ? <p>My goal is to finish in 3 days.</p> : <p>My goal is not 3 days.</p>}
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet ipsum labore, ad, ut quaerat unde illum voluptatum necessitatibus pariatur consectetur vitae vero cumque odit excepturi numquam cum, iusto natus? Dicta.</p>
-    <Footer />
-    </body>
-</html>
+<BaseLayout pageTitle="Sobre mi persona">
+    <h2>un poco sobre mi</h2>
+    <p>Here are a few facts about me:</p>
+    <ul>
+        <li>Mi nombre es {identity.firstName}.</li>
+        <li>Yo vivo en {identity.country} y so un {identity.occupation}.</li>
+         {identity.hobbies.length >= 2 &&
+        <li>Dos de mis hobbies son: {identity.hobbies[0]} y {identity.hobbies[1]}</li>
+         }
+    </ul>
+    <p>Tengo experiencia haciendo:</p>
+    <ul>
+        {skills.map((skill) => <li class="skill">{skill}</li>)}
+    </ul>
+    <p>Este es un sitio de prueba para blogs hecho con Astro</p>
+    {happy && <p>I am happy to be learning Astro!</p>}
+    {finished && <p>I finished this tutorial!</p>}
+    {goal === 3 ? <p>My goal is to finish in 3 days.</p> : <p>My goal is not 3 days.</p>}
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet ipsum labore, ad, ut quaerat unde illum voluptatum necessitatibus pariatur consectetur vitae vero cumque odit excepturi numquam cum, iusto natus? Dicta.</p>
+</BaseLayout>

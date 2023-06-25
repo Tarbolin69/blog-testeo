@@ -1,20 +1,14 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: Short Story - by Rota
 author: Rota
-description: "I had some challenges, but asking in the community really helped!"
+description: "An unreleased short story by Randolph Gowering, the time where it occurs with respect to the main series unknown, but seemingly before book 4 or 5. The segment at the end is incongruous and disconnected from any other written work he has released."
 image:
     url: "https://docs.astro.build/assets/rays.webp"
     alt: "Thumbnail of Astro rays."
 pubDate: 2022-07-15
 tags: ["astro", "learning in public", "setbacks", "community"]
 ---
-
-# Short Story - by Rota
-
-An unreleased short story by Randolph Gowering, the time where it occurs with respect to the main series unknown, but seemingly before book 4 or 5. The segment at the end is incongruous and disconnected from any other written work he has released.
-
-----
-
 The sea-salt clung to Matho’s sallow skin as he tacked his sailboat in the rough surf, the Gulf of Wethir’s unkind waves crashing against the hull without mercy. He had been going for a long while, and the last stop in Theivesport had done little to improve his mood.
 
 *Damn Wood Elves and their tolls.* It had taken him days to barter for supplies, and even then he believed their fat trade-masters shortchanged him of the root-sap so necessary for the rest of his voyage. Though they had little love for the Spire Elves that they were supposedly 'ruled by', the elves of the First Forest still held a distinct disdain for an Ashen like himself.

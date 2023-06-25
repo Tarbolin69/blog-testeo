@@ -1,6 +1,7 @@
 ---
-title: My Second Blog Post
-author: Astro Learner
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Mi Segundo Blog
+author: Nicolás Ortega
 description: "After learning some Astro, I couldn't stop!"
 image:
     url: "https://docs.astro.build/assets/arc.webp"
