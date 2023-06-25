@@ -1,6 +1,6 @@
 ---
-title: My Third Blog Post
-author: Astro Learner
+title: Short Story - by Rota
+author: Rota
 description: "I had some challenges, but asking in the community really helped!"
 image:
     url: "https://docs.astro.build/assets/rays.webp"
@@ -8,6 +8,8 @@ image:
 pubDate: 2022-07-15
 tags: ["astro", "learning in public", "setbacks", "community"]
 ---
+
+# Short Story - by Rota
 
 An unreleased short story by Randolph Gowering, the time where it occurs with respect to the main series unknown, but seemingly before book 4 or 5. The segment at the end is incongruous and disconnected from any other written work he has released.
 
