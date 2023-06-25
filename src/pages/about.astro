@@ -1,4 +1,7 @@
 ---
+import Nagivation from '../components/Nagivation.astro';
+import Footer from '../components/Footer.astro';
+
 import '../styles/global.css';
 
 const pageTitle = "Sobre mi persona";
@@ -23,9 +26,7 @@ const goal = 3;
         <title>{pageTitle}</title>
     </head>
     <body>
-        <a href="/">Hogar</a>
-        <a href="/about/">Nosotros</a>
-        <a href="/blog/">Blog</a>
+        <Nagivation />
         <h1>{pageTitle}<h1>
         <h2>un poco sobre mi</h2>
         <p>Here are a few facts about me:</p>
@@ -45,5 +46,6 @@ const goal = 3;
         {finished && <p>I finished this tutorial!</p>}
         {goal === 3 ? <p>My goal is to finish in 3 days.</p> : <p>My goal is not 3 days.</p>}
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet ipsum labore, ad, ut quaerat unde illum voluptatum necessitatibus pariatur consectetur vitae vero cumque odit excepturi numquam cum, iusto natus? Dicta.</p>
+    <Footer />
     </body>
 </html>
