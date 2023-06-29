@@ -1,0 +1,19 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  return [
+    { params: { tag: "astro" } },
+    { params: { tag: "escritura" } },
+    { params: { tag: "blog" } },
+    { params: { tag: "historias" } },
+    { params: { tag: "opiniones" } },
+    { params: { tag: "programación" } },
+  ];
+}
+
+const { tag } = Astro.params;
+---
+<BaseLayout pageTitle={tag}>
+  <p>Paginas etiquetadas con {tag}</p>
+</BaseLayout>

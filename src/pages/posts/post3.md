@@ -7,7 +7,7 @@ image:
     url: "https://docs.astro.build/assets/rays.webp"
     alt: "Thumbnail of Astro rays."
 pubDate: 2022-07-15
-tags: ["astro", "learning in public", "setbacks", "community"]
+tags: ["escritura", "blog"]
 ---
 The sea-salt clung to Matho’s sallow skin as he tacked his sailboat in the rough surf, the Gulf of Wethir’s unkind waves crashing against the hull without mercy. He had been going for a long while, and the last stop in Theivesport had done little to improve his mood.
 

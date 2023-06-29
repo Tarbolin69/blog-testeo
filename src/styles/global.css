@@ -1,8 +1,19 @@
 html {
-    background-image: linear-gradient(to left bottom, #03071e, #03071c, #040619, #040617, #040614, #040612, #040510, #04050d, #04040b, #030308, #030306, #020203);
+    background-color: #0b0100;
     font-family: sans-serif;
-    color: white;
+    color: #feec87;
 }
+
+/* Background Colors: */
+/* #0b0100 */
+/* #160202 */
+/* Middle Colors: */
+/* #feec87 */
+/* #ffd85c */
+/* Foreground/Accent Colors: */
+/* #ff110a */
+/* #f9005a */
+/* https://huemint.com/website-3/#palette=0b0100-160202-feec87-ffd85c-ff110a-f9005a */
 
 body {
     margin: 0 auto;
@@ -19,7 +30,11 @@ body {
 h1 {
     margin: 1rem 0;
     font-size: 2.5rem;
-    color: #DC2F02;
+    color: #ffd85c;
+}
+
+h2 {
+    color: #ff110a;
 }
 
 .hamburger {
@@ -39,9 +54,17 @@ h1 {
     width: 100%;
     top: 5rem;
     left: 48px;
-    background-color: #ff9776;
+    background-color: #ff110a;
     display: none;
     margin: 0;
+}
+
+a {
+    color: #ff110a;
+}
+
+a:visited {
+    color: #f9005a;
 }
 
 .nav-links a {
@@ -55,7 +78,7 @@ h1 {
 }
 
 .nav-links a:hover, a:focus {
-    background-color: #ff9776;
+    background-color: #ffd85c;
 }
 
 .expanded {
