@@ -67,6 +67,22 @@ a:visited {
     color: #f9005a;
 }
 
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.tag {
+    margin: 0.25em;
+    border: dotted 1px #a1a1a1;
+    border-radius: .2em;
+    padding: .2em 1em;
+    font-size: 1.15em;
+    background-color: #ffd85c;
+    font-weight: 600;
+}
+
 .nav-links a {
     display: block;
     text-align: center;
