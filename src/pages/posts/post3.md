@@ -15,7 +15,7 @@ The sea-salt clung to Matho’s sallow skin as he tacked his sailboat in the rou
 
 *Yet another instance Father was right*, he supposed. His father had always told him that wood-elves, if they could, would simply imprison their own kin in the woods for the sake of propriety; other elves were seen an inconvenience to them, potential detractors from their monopoly on the human slaves so integral to the ghettos of their tree-filled port-city.
 
-The last bastion of human organisation in Cair Aisling, and it is filled with nothing but slaves. Matho spat into the sea. Humans should be better shared among the higher races.
+The last bastion of human organization in Cair Aisling, and it is filled with nothing but slaves. Matho spat into the sea. Humans should be better shared among the higher races.
 
 The shadowed ruins of Bris drew nigh before him, old towered-teeth and storied halls now almost leveled by time since he had last come across them. They were all that remained of an old bastion of a human greatness now long-since shattered just like the Empire that had made it. Vague black dots circled the towers in the distance, holes in the darkened sky.
 
