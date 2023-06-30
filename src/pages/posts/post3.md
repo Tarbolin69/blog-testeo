@@ -25,7 +25,7 @@ The little boat was a handsome gift from the Matron, a craft sewn with charms an
 
 Now he would be forced to hug close to the east coast of Wethir if he was to make it in time, and all mariners of the Matron-under-Witchwood knew that which dwelt in the rocks there feasting on the corpses of sailors forgotten: the Sirens.
 
-Even in the northern jungles of the Ashwood, rumour of the Sirens had traveled far, witch-stories of enchantresses and heathen beings dressed in the feathers of birds and the skins of seals, singing songs so beautiful they lured many a mariner both elf or man to their death in their sandy coves. There were many kinds and tribes of Sirens of course, even some he had encountered feeding in Thievesport, gossip-barons for information with little care for who they stole from. The Siren-Coves were different, though. They were organised here, groups both all-too bloodthirsty and secretive.
+Even in the northern jungles of the Ashwood, rumour of the Sirens had traveled far, witch-stories of enchantresses and heathen beings dressed in the feathers of birds and the skins of seals, singing songs so beautiful they lured many a mariner both elf or man to their death in their sandy coves. There were many kinds and tribes of Sirens of course, even some he had encountered feeding in Thievesport, gossip-barons for information with little care for who they stole from. The Siren-Coves were different, though. They were organized here, groups both all-too bloodthirsty and secretive.
 
 There were only two ways to escape their trappings, or so his Matron said: to block the ears, or to use a… supplement. His pride prevented him from using the former of course, and as such he only had the latter, an option he had already exhausted the majority of rather carelessly in his travels southward. It would have to do, though.
 
@@ -73,13 +73,13 @@ He still felt the pull though. The sound was growing louder. He had to move.
 
 Behind him he saw a cave, some roughly skewered hole almost like air in a sponge: it was one of many dotting the coast, but in his heart of hearts he knew it was no normal sea-cave. The Siren-Coves were not a normal coast.
 
-As he dove into the mouth to run from the screaming gaggle of the air as fast as any Ashen-elf could, he found the passage extending and the sound… growing louder, the choir deepening in the dark. The echoes of the rabble outside grew faint and distant. It was almost like they did not wish to go into the cavern. *They're afraid*, he realised. Well, it serves to reason that such lower creatures would be scared enough to protect what they themselves are too afraid to confront. He would move onward.
+As he dove into the mouth to run from the screaming gaggle of the air as fast as any Ashen-elf could, he found the passage extending and the sound… growing louder, the choir deepening in the dark. The echoes of the rabble outside grew faint and distant. It was almost like they did not wish to go into the cavern. *They're afraid*, he realized. Well, it serves to reason that such lower creatures would be scared enough to protect what they themselves are too afraid to confront. He would move onward.
 
 *As a Mariner… perhaps the Beach of Beginnings was too small*, he reasoned. *I’ll win my place under the Matron much better this way after all… where no elf has ever gone before.*
 
 The dark did not bother him anyway. He is Ash-born after-all, and could see in it well enough.
 
-The sound grew louder, and then a light appeared. He was no longer in a passage but now a wide cavern, a massive pit near-parallel to the cliffs at the front that could only stretch for miles both north and south; it was a corridor he realised, one longer than any he had ever seen in Ashwood. The smell of burnt flesh hung in the air, and at the far side he saw it: the source of the light.
+The sound grew louder, and then a light appeared. He was no longer in a passage but now a wide cavern, a massive pit near-parallel to the cliffs at the front that could only stretch for miles both north and south; it was a corridor he realized, one longer than any he had ever seen in Ashwood. The smell of burnt flesh hung in the air, and at the far side he saw it: the source of the light.
 
 A massive tear on the far side of the cavern, its edges like the ripping of a leaf in a book, stretched out in a vast line along the entire length of the wall for however long it was. It wasn't normal, not at all. Through it he could see a grand room, piles of inked pages on some machine churning out in the background.
 
