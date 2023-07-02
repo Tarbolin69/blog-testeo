@@ -1,6 +1,8 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import Greeting from '../components/Greeting.jsx';
 ---
 <BaseLayout pageTitle="La Tumba de Solcaronte">
   <h2>Cositas!!!</h2>
+  <Greeting client:load messages={["Hola", "Buenas", "Bienvenido", "Piola verte"]} />
 </BaseLayout>
