@@ -2,74 +2,74 @@
 /* arvo-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Arvo';
+  font-family: "Arvo";
   font-style: normal;
   font-weight: 400;
-  src: url('/fonts/arvo-v20-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/fonts/arvo-v20-latin-regular.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* arvo-italic - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Arvo';
+  font-family: "Arvo";
   font-style: italic;
   font-weight: 400;
-  src: url('/fonts/arvo-v20-latin-italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/fonts/arvo-v20-latin-italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* arvo-700 - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Arvo';
+  font-family: "Arvo";
   font-style: normal;
   font-weight: 700;
-  src: url('/fonts/arvo-v20-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/fonts/arvo-v20-latin-700.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* arvo-700italic - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Arvo';
+  font-family: "Arvo";
   font-style: italic;
   font-weight: 700;
-  src: url('/fonts/arvo-v20-latin-700italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/fonts/arvo-v20-latin-700italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 /* =================================================================== */
 /* =================================================================== */
 /* lato-regular - latin */
 @font-face {
-    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-    font-family: 'Lato';
-    font-style: normal;
-    font-weight: 400;
-    src: url('/fonts/lato-v24-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/lato-v24-latin-regular.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* lato-italic - latin */
 @font-face {
-    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-    font-family: 'Lato';
-    font-style: italic;
-    font-weight: 400;
-    src: url('/fonts/lato-v24-latin-italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Lato";
+  font-style: italic;
+  font-weight: 400;
+  src: url("/fonts/lato-v24-latin-italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* lato-700 - latin */
 @font-face {
-    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-    font-family: 'Lato';
-    font-style: normal;
-    font-weight: 700;
-    src: url('/fonts/lato-v24-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/fonts/lato-v24-latin-700.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* lato-700italic - latin */
 @font-face {
-    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-    font-family: 'Lato';
-    font-style: italic;
-    font-weight: 700;
-    src: url('/fonts/lato-v24-latin-700italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Lato";
+  font-style: italic;
+  font-weight: 700;
+  src: url("/fonts/lato-v24-latin-700italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 /* =================================================================== */
 /* =================================================================== */
@@ -86,34 +86,50 @@
 /* =================================================================== */
 
 html {
-    background-color: #0b0100;
-    font-family: sans-serif;
-    color: #feec87;
+  background-color: #0b0100;
+  font-family: sans-serif;
+  color: #feec87;
+}
+
+html.dark {
+  background-color: white;
+  color: black;
+}
+
+.dark .nav-links a {
+  color: #fff;
 }
 
 * {
-    box-sizing: border-box;
-    font-family: "Lato";
+  box-sizing: border-box;
+  font-family: "Lato";
 }
 
 body {
-    margin: 0 auto;
-    width: 100%;
-    max-width: 80ch;
-    padding: 1rem;
-    line-height: 1.5;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 80ch;
+  padding: 1rem;
+  line-height: 1.5;
 }
 
-h1, h2, h3, h4, h5, h6 {font-family:"Arvo";}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Arvo";
+}
 
 h1 {
-    margin: 1rem 0;
-    font-size: 2.5rem;
-    color: #ffd85c;
+  margin: 1rem 0;
+  font-size: 2.5rem;
+  color: #ffd85c;
 }
 
 h2 {
-    color: #ff110a;
+  color: #ff110a;
 }
 
 .hamburger {
@@ -130,71 +146,72 @@ h2 {
 }
 
 .nav-links {
-    width: 100%;
-    top: 5rem;
-    left: 48px;
-    background-color: #ff110a;
-    display: none;
-    margin: 0;
+  width: 100%;
+  top: 5rem;
+  left: 48px;
+  background-color: #ff110a;
+  display: none;
+  margin: 0;
 }
 
 a {
-    color: #ff110a;
+  color: #ff110a;
 }
 
 a:visited {
-    color: #f9005a;
+  color: #f9005a;
 }
 
 .tags {
-    display: flex;
-    flex-wrap: wrap;
-    margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
 }
 
 .tag {
-    margin: 0.25em;
-    border: dotted 1px #a1a1a1;
-    border-radius: .2em;
-    padding: .2em 1em;
-    font-size: 1.15em;
-    background-color: #ffd85c;
-    font-weight: 600;
+  margin: 0.25em;
+  border: dotted 1px #a1a1a1;
+  border-radius: 0.2em;
+  padding: 0.2em 1em;
+  font-size: 1.15em;
+  background-color: #ffd85c;
+  font-weight: 600;
 }
 
 .nav-links a {
-    display: block;
-    text-align: center;
-    padding: 10px 0;
-    text-decoration: none;
-    font-size: 1.2rem;
-    font-weight: bold;
-    text-transform: uppercase;
+  display: block;
+  text-align: center;
+  padding: 10px 0;
+  text-decoration: none;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 
-.nav-links a:hover, a:focus {
-    background-color: #ffd85c;
+.nav-links a:hover,
+a:focus {
+  background-color: #ffd85c;
 }
 
 .expanded {
-    display: unset;
+  display: unset;
 }
 
 @media screen and (min-width: 636px) {
-    .nav-links {
-        margin-left: 5em;
-        display: block;
-        position: static;
-        width: auto;
-        background: none;
-    }
+  .nav-links {
+    margin-left: 5em;
+    display: block;
+    position: static;
+    width: auto;
+    background: none;
+  }
 
-    .nav-links a {
-        display: inline-block;
-        padding: 15px 20px;
-    }
+  .nav-links a {
+    display: inline-block;
+    padding: 15px 20px;
+  }
 
-    .hamburger {
-        display: none;
-    }
+  .hamburger {
+    display: none;
+  }
 }
